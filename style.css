@@ -1,0 +1,29 @@
+body {
+    background-color: #fefefe;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+.nav-header {
+    background-color: hotpink;
+    border: solid;
+    border-radius: 1%;
+
+}
+
+.nav-header a {
+    color: white;
+    margin: 1vw;
+    text-decoration: none;
+
+}
+
+.nav-header a::after{
+    content: '';
+    width: 0;
+    height: 80%;
+    border: 1px solid white;
+    margin-left: 2em;
+}

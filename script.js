@@ -1,0 +1,1 @@
+console.log("Oj ty niegrzeczny tutaj się nie zalgąda");
