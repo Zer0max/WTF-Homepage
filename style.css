@@ -27,3 +27,50 @@ h2 {
     border: 1px solid white;
     margin-left: 2em;
 }
+
+/*shared header*/
+.page-header {
+
+}
+
+.page-nav-header {
+
+}
+
+.page-nav-header__link {
+    
+}
+
+.page-nav-header__link--active {
+
+}
+
+/*whatILerned Page*/
+
+.whatILearned-article {
+
+}
+
+.whatILearned-article__title {
+
+}
+
+.whatILearned-article-week {
+
+}
+
+.whatILearned-article-week__title {
+
+}
+
+.whatILearned-article-week__list {
+
+}
+
+.whatILearned-article-week__list-item-title {
+
+}
+
+.whatILearned-article-week__list-item-description {
+    
+}
