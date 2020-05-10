@@ -27,16 +27,23 @@ h2 {
     max-width: 100%;
     background-color: grey;
     border: solid;
+    padding: 1vh;
     border-radius: 10px;;
 }
 
 .page-nav-header__link {
     color: white;
-    margin: 1vw;
+    margin: 10px;
     text-decoration: none;
+    padding: 0 20px 0 20px ;
 }
 
 .page-nav-header__link--active {
+    border: 3px solid plum;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 10px;
+    color: plum;
 
 }
 
